@@ -1,13 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ahmad Irham</h1>
-<h3 align="center">I'm currently working as a front end developer using Javascript</h3>
-
-- 🔭 I’m currently working on [Lallo ID](lallo.id)
-
-- 💬 Ask me about **Web Development**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irhamachmad&show_icons=true&locale=en&layout=compact" alt="irhamachmad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irhamachmad&show_icons=true&locale=en" alt="irhamachmad" /></p>
+<h4 align="left">I'm currently working as a front end developer using Javascript</h4>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
