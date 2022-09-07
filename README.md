@@ -8,8 +8,8 @@
 </p>
 
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
+<h4 align="right">Connect with me:</h4>
+<p align="right">
 <a href="https://linkedin.com/in/ahmad-irham-891828b5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="ahmad-irham-891828b5" height="30" width="30" /></a>
 <a href="https://t.me/irhamachmad" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="ahmad-irham-891828b5" height="30" width="30" /></a>
 </p>
